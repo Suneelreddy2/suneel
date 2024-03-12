@@ -1,0 +1,19 @@
+ body{
+    margin:0;
+    
+ }  
+
+.container{
+    height:300px;
+    width:1440px;
+    background-color:rgb(255, 205, 158);
+    padding: 30px;
+    background-image: url("https://th.bing.com/th/id/OIP.Ms-5772sbYROQwqqOONRVQHaEK?rs=1&pid=ImgDetMain");
+    background-repeat:no-repeat;
+    background-position: 800px 0px;
+}
+.suneel{
+    height:250px;
+    width:1440;
+    background-color: black;
+}
